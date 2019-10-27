@@ -9,3 +9,7 @@ class Dog
 end
 
 property=
+lassie = Dog.new
+lassie.name=("Lassie")
+ 
+lassie.name #=> "Lassie"
